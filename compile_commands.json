@@ -1,0 +1,17 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-c",
+      "-std=c++17",
+      "-I",
+      "include",
+      "-o",
+      "bin/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/Users/geronimo/projects/globito-peleador-cpp",
+    "file": "/Users/geronimo/projects/globito-peleador-cpp/src/main.cpp",
+    "output": "/Users/geronimo/projects/globito-peleador-cpp/bin/main.o"
+  }
+]
