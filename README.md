@@ -26,6 +26,12 @@ So that being said, we hope that this repository finds you well and wholehearted
 
 Before building the project, you will need to install all relevant dependencies for your platform so that the project has access to all the tools required, and raylib can compile and link correctly. You can find intructions for installing dependencies on macOS, Linux, and Windows in the [docs file on installing dependencies](docs/InstallingDependencies.md).
 
+```bash
+git
+bear
+xcode-select --install
+
+```
 ### Building the Project
 Once you have cloned this repository and installed dependencies, building the project is as simple as running these two commands in its root directory:
 
